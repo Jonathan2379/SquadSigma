@@ -1,0 +1,18 @@
+*** ----------------------------------------------------------------***
+Product Owner: Jonathan Oliveira P. da Costa
+*** ----------------------------------------------------------------***
+Scrum Master: 
+*** ----------------------------------------------------------------***
+(Devs)
+	Desenvolvedor 1: 
+	Habilidades:
+
+	Desenvolvedor 2: 
+	Habilidades:
+
+	Desenvolvedor 3: 
+	Habilidades:
+
+	Desenvolvedor 4: 
+	Habilidades:
+*** ----------------------------------------------------------------***
