@@ -4,8 +4,8 @@ Product Owner: Jonathan Oliveira P. da Costa
 Scrum Master: Daniel Attias de Oliveira
 *** ----------------------------------------------------------------***
 (Devs)
-	Desenvolvedor 1: 
-	Habilidades:
+	Desenvolvedor 1: André felipe
+	Habilidades: programação c,java,android
 
 	Desenvolvedor 2: 
 	Habilidades:
