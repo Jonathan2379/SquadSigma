@@ -13,6 +13,6 @@ Scrum Master: Daniel Attias de Oliveira
 	Desenvolvedor 3: 
 	Habilidades:
 
-	Desenvolvedor 4: 
-	Habilidades:
+	Desenvolvedor 4: Leonardo Honorato 
+	Habilidades: programação em C, Redes de computadores
 *** ----------------------------------------------------------------***
