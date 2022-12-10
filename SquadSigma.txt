@@ -7,8 +7,8 @@ Scrum Master: Daniel Attias de Oliveira
 	Desenvolvedor 1: André felipe
 	Habilidades: programação c,java,android
 
-	Desenvolvedor 2: 
-	Habilidades:
+	Desenvolvedor 2: Paulo Victor Vieira Lunas
+	Habilidades: Linguagens: C, C++ e Python. Docker e Redes.
 
 	Desenvolvedor 3: 
 	Habilidades:
